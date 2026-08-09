@@ -4,7 +4,7 @@ Academic personal website for Zixin Rao, prepared with the Academic Pages Jekyll
 
 Live URL after deployment:
 
-https://zixin22.github.io
+https://zixin22.github.io/zixin22-profile/
 
 ## Current Structure
 
@@ -15,4 +15,4 @@ CV, full publication metadata, and profile photo can be added later.
 
 ## Local Notes
 
-This repository is intended to be published as `zixin22/zixin22.github.io` on GitHub Pages.
+This repository is intended to be published as `zixin22/zixin22-profile` on GitHub Pages.
