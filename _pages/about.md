@@ -35,3 +35,4 @@ Contact
 - Email: [zr04546@uga.edu](mailto:zr04546@uga.edu)
 - GitHub: [zixin22](https://github.com/zixin22)
 - Google Scholar: [Zixin Rao](https://scholar.google.com/citations?hl=en&user=3P4jAQEAAAAJ)
+- CV: [Download PDF](https://zixin22.github.io/zixin22-profile/files/Zixin_Rao_CV.pdf)
