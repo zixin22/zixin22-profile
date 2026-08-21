@@ -34,9 +34,6 @@ News
 
 **2025**
 
-**Paper** Our work *SoSBench: Benchmarking Safety Alignment on Scientific Knowledge* appeared at **Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025**. Thanks to my collaborators.  
-*2025*
-
 **Position** I started my Ph.D. study in Computer Science at the **University of Georgia**, advised by **Prof. Zhen Xiang**.  
 *Fall 2025*
 
