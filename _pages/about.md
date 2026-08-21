@@ -21,8 +21,24 @@ Research Interests
 News
 ======
 
-- **Fall 2025:** Started Ph.D. study in Computer Science at the University of Georgia.
-- **2026:** Website first version launched.
+**2026**
+
+**Paper** Our work *FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion* has been accepted by **USENIX Security 2026**. Thanks to my collaborators.  
+*2026*
+
+**Paper** Our work *IntrAgent: An LLM Agent for Content-Grounded Information Retrieval through Literature Review* has been accepted by **ACL 2026**. Thanks to my collaborators.  
+*2026*
+
+**Paper** Our work *SoSBench: Benchmarking Safety Alignment on Six Scientific Domains* has been accepted by **ICLR 2026**. Thanks to my collaborators.  
+*2026*
+
+**2025**
+
+**Paper** Our work *SoSBench: Benchmarking Safety Alignment on Scientific Knowledge* appeared at **Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025**. Thanks to my collaborators.  
+*2025*
+
+**Position** I started my Ph.D. study in Computer Science at the **University of Georgia**, advised by **Prof. Zhen Xiang**.  
+*Fall 2025*
 
 Selected Publications
 ======
